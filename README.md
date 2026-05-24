@@ -13,5 +13,5 @@ My work tools are the next:
 
 --
 ## Projects ⚙️
-You can view my experience in [this page]([https://elmarcels.]("https://elmarcels.github.io/web/experiencia.html"). **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
+You can view my experience in [this page]("https://elmarcels.github.io/web/experiencia.html"). **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
 
