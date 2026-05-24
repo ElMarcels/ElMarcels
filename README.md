@@ -15,3 +15,9 @@ My work tools are the next:
 ## Projects ⚙️
 You can view my experience in [this page](https://elmarcels.github.io/web/experiencia.html). **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
 
+--
+## My Socials
+- [My Discord](https://dc.gg/elmarcels)
+- [My Modrinth Page](https://modrinth.com/user/elmarcels/plugins)
+- [My Portfolio](https://elmarcels.github.io/web) **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
+- [All My Projects In **GITHUB**](https://github.com/elmarcels)
