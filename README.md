@@ -16,6 +16,10 @@ My work tools are the next:
 You can view my experience in [this page](https://elmarcels.github.io/web/experiencia.html). **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
 
 --
+## Programming languages ​​I use
+You can view the Programming languages ​​I use in [this page](https://elmarcels.github.io/web/index.html#skills)
+
+--
 ## My Socials
 - [My Discord](https://dc.gg/elmarcels)
 - [My Modrinth Page](https://modrinth.com/user/elmarcels/plugins)
