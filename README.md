@@ -2,7 +2,7 @@
 
 --
 
-## About Me
+## About Me 📌
 I'm a very full-stack developer focused on Web Pages & Minecraft, i love develop Web Pages & create my own Minecraft Plugins & Servers.
 My work tools are the next:
 - Gemini & ChatGPT for help in develop process.
@@ -11,16 +11,19 @@ My work tools are the next:
 - Notepad++
 - Microsoft Frontpage (A 2007 Program) to do other things in HTML
 
+### My Coding System
+- You can view all my coding system (Apps I Use, Accesories, Gadgets...) [in this page](https://github.com/elmarcels/coding-system)
+
 --
 ## Projects ⚙️
 You can view my experience in [this page](https://elmarcels.github.io/web/experiencia.html). **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
 
 --
-## Programming languages ​​I use
+## Programming languages ​​I use 🖥️
 You can view the Programming languages ​​I use in [this page](https://elmarcels.github.io/web/index.html#skills) **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
 
 --
-## My Socials
+## My Socials 🌐
 - [My Discord](https://dc.gg/elmarcels)
 - [My Modrinth Page](https://modrinth.com/user/elmarcels/plugins)
 - [My Portfolio](https://elmarcels.github.io/web) **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
