@@ -1,1 +1,35 @@
+# El nombre de tu flujo de trabajo
+name: Mi Primer Workflow
 
+# ¿Cuándo se va a ejecutar? (Eventos)
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+# ¿Qué va a hacer? (Trabajos)
+jobs:
+  build-and-test:
+    # El sistema operativo virtual donde correrá el código
+    runs-on: ubuntu-latest
+
+    # La lista de pasos que va a ejecutar
+    steps:
+      # Paso 1: Descargar el código del repositorio en la máquina virtual
+      - name: Clonar el repositorio
+        uses: actions/checkout@v4
+
+      # Paso 2: Configurar el entorno (ejemplo con Node.js, cámbialo por Python, Java, etc.)
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Paso 3: Instalar dependencias
+      - name: Instalar dependencias
+        run: npm install
+
+      # Paso 4: Ejecutar comandos o pruebas
+      - name: Ejecutar pruebas
+        run: npm test
