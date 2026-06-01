@@ -31,6 +31,6 @@ You can view the Programming languages ​​I use in [this page](https://elmarc
 ## My Socials 🌐
 - [My Discord](https://dc.gg/elmarcels)
 - [My Modrinth Page](https://modrinth.com/user/elmarcels/plugins)
-- [My Portfolio](https://elmarcels.github.io/web) **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
+- [My Portfolio](https://elmarcels.github.io/web) | [English Page](https://elmarcels.github.io/web/english/index.html)
 - [All My Projects In **GITHUB**](https://github.com/elmarcels)
 - [My Google Developer Profile](https://g.dev/elmarcels)
