@@ -16,14 +16,16 @@ My work tools are the next:
 
 --
 ## Projects ⚙️
-- You can view my experience in [this page](https://elmarcels.github.io/web/experiencia.html). **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
+- You can view my experience in [this page](https://elmarcels.github.io/web/experiencia.html).
+- [English Version](https://elmarcels.github.io/web/english/experiencia.html)
 
 ### Tech Courses
 - You can find Tech & Robotics Courses in [this page](https://github.com/ElMarcels/tech-courses). In this courses, you will learn content about Tech & Robotics (Like AI, Arduino, MicroBit, Coding)
 
 --
 ## Programming languages ​​I use 🖥️
-You can view the Programming languages ​​I use in [this page](https://elmarcels.github.io/web/index.html#skills) **ONLY AVAILABLE IN SPANISH! YOU HAVE TO TRANSLATE IT! SOON AVAILABLE IN ENGLISH!**
+You can view the Programming languages ​​I use in [this page](https://elmarcels.github.io/web/index.html#skills).
+[English Page](https://elmarcels.github.io/web/english/index.html#skills)
 
 --
 ## My Socials 🌐
