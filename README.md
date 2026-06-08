@@ -20,7 +20,7 @@ My work tools are the next:
 - [English Version](https://elmarcels.github.io/web/english/experiencia.html)
 
 ### Tech Courses
-- You can find Tech & Robotics Courses in [this page](https://github.com/ElMarcels/tech-courses). In this courses, you will learn content about Tech & Robotics (Like AI, Arduino, MicroBit, Coding)
+- You can find Tech & Robotics Courses in [this page](https://elmarcels.github.io/courses/index.html). In this courses, you will learn content about Tech & Robotics (Like AI, Arduino, MicroBit, Coding)
 
 --
 ## Programming languages ​​I use 🖥️
