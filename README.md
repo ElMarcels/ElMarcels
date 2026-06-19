@@ -19,9 +19,6 @@ My work tools are the next:
 - You can view my experience in [this page](https://elmarcels.github.io/web/experiencia.html).
 - [English Version](https://elmarcels.github.io/web/english/experiencia.html)
 
-### Tech Courses
-- You can find Tech & Robotics Courses in [this page](https://elmarcels.github.io/courses/index.html). In this courses, you will learn content about Tech & Robotics (Like AI, Arduino, MicroBit, Coding)
-
 --
 ## Programming languages ​​I use 🖥️
 You can view the Programming languages ​​I use in [this page](https://elmarcels.github.io/web/index.html#skills).
@@ -31,6 +28,6 @@ You can view the Programming languages ​​I use in [this page](https://elmarc
 ## My Socials 🌐
 - [My Discord](https://dc.gg/elmarcels)
 - [My Modrinth Page](https://modrinth.com/user/elmarcels/plugins)
-- [My Portfolio](https://elmarcels.github.io/web) | [English Page](https://elmarcels.github.io/web/english/index.html)
+- [My Web](https://elmarcels.jixen.xyz)
 - [All My Projects In **GITHUB**](https://github.com/elmarcels)
 - [My Google Developer Profile](https://g.dev/elmarcels)
