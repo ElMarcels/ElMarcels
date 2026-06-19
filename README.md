@@ -16,8 +16,7 @@ My work tools are the next:
 
 --
 ## Projects ⚙️
-- You can view my experience in [this page](https://elmarcels.github.io/web/experiencia.html).
-- [English Version](https://elmarcels.github.io/web/english/experiencia.html)
+- You can view my experience in [this page](https://elmarcels.jixen.xyz/experiencia.html).
 
 --
 ## Programming languages ​​I use 🖥️
