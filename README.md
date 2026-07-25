@@ -1,4 +1,4 @@
-![banner](https://github.com/ElMarcels/ElMarcels/blob/main/elmarcelsgithubbanner.gif?raw=true)
+![banner](https://github.com/ElMarcels/ElMarcels/blob/main/ElMarcels.gif?raw=true)
 
 --
 
