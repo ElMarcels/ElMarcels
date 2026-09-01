@@ -1,29 +1,43 @@
 ![banner](https://github.com/ElMarcels/ElMarcels/blob/main/ElMarcels2.gif?raw=true)
 
---
+# Hi there! I'm Marcel 👋
 
-## About Me 📌
-I'm a very full-stack developer focused on Web Pages & Minecraft, i love develop Web Pages & create my own Minecraft Plugins & Servers.
-My work tools are the next:
-- Gemini & ChatGPT for help in develop process.
-- Visual Studio Code for web pages development.
-- JetBrains (IntelliJ Idea Community Edition) for minecraft plugins development.
-- Notepad++
-- Microsoft Frontpage (A 2007 Program) to do other things in HTML
+Developer focused on building functional solutions, exploring web technologies, and automating processes. Welcome to my GitHub profile!
 
-### My Coding System
-- You can view all my coding system (Apps I Use, Accesories, Gadgets...) [in this page](https://github.com/elmarcels/coding-system)
+---
 
---
-## Projects ⚙️
-- You can view my experience in [this page](https://elmarcels.jixen.xyz/experiencia.html).
+### 🛠️ Tech Stack & Tools
 
---
-## Programming languages ​​I use 🖥️
-You can view the Programming languages ​​I use in [this page](https://elmarcels.github.io/web/index.html#skills).
-[English Page](https://elmarcels.github.io/web/english/index.html#skills)
+* **Languages:** Python, JavaScript, HTML5, CSS3...
+* **Web Development & Frameworks:** React, Node.js, Express, Tailwind CSS...
+* **Tools & Environment:** Git, GitHub, VS Code, Linux...
+* **Databases:** PostgreSQL, MongoDB...
 
---
+---
+
+### 📌 Featured Projects
+
+* 🚀 **[TwitchMod Dashboard](https://twitchmod.elmarcels.xyz)**
+* 🛠️ **[Deskly](https://deskly-one.vercel.app)**
+* 🤖 **[Favnooob Viewers Dashboard](https://favnoob.elmarcels.xyz/)**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElMarcels&show_icons=true&theme=radial&count_private=true" alt="Marcel's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMarcels&layout=compact&theme=radial" alt="Top Languages" height="175"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [your-username](https://linkedin.com/in/your-username)
+* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com)
+
 ## My Socials 🌐
 - [My Discord](https://dc.gg/elmarcels)
 - [My Modrinth Page](https://modrinth.com/user/elmarcels/plugins)
