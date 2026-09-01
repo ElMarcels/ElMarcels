@@ -23,21 +23,6 @@ Developer focused on building functional solutions, exploring web technologies, 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElMarcels&show_icons=true&theme=radial&count_private=true" alt="Marcel's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMarcels&layout=compact&theme=radial" alt="Top Languages" height="175"/>
-</p>
-
----
-
-### 📫 Connect with Me
-
-* **LinkedIn:** [your-username](https://linkedin.com/in/your-username)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com)
-
 ## My Socials 🌐
 - [My Discord](https://dc.gg/elmarcels)
 - [My Modrinth Page](https://modrinth.com/user/elmarcels/plugins)
