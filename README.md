@@ -25,7 +25,6 @@ Developer focused on building functional solutions, exploring web technologies, 
 ---
 
 ## My Socials 🌐
-- [My Discord](https://dc.gg/elmarcels)
 - [My Modrinth Page](https://modrinth.com/user/elmarcels/plugins)
 - [My Web](https://elmarcels.jixen.xyz)
 - [All My Projects In **GITHUB**](https://github.com/elmarcels)
