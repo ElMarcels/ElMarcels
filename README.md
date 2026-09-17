@@ -3,6 +3,7 @@
 # Hi there! I'm Marcel 👋
 
 Developer focused on building functional solutions, exploring web technologies, and automating processes. Welcome to my GitHub profile!
+I love the Minecraft Ecosystem Development, Web Development, Discord Bots Development...
 
 ---
 
