@@ -1,4 +1,4 @@
-![banner](https://github.com/ElMarcels/ElMarcels/blob/main/ElMarcels2.gif?raw=true)
+![banner](https://github.com/ElMarcels/ElMarcels/blob/main/elmarcelsgit.png?raw=true)
 
 # Hi there! I'm Marcel 👋
 
